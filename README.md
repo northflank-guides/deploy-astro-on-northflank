@@ -4,12 +4,6 @@
 npm init astro -- --template blog
 ```
 
-## Deploy on Northflank
-
-This is the default Astro blog starter with a Dockerfile, added so that it can be built and deployed on Northflank.
-
-View the [Northflank guide here](https://northflank.com/guides/deploy-astro-on-northflank).
-
 Features:
 
 - ✅ Minimal styling (make it your own!)
@@ -18,6 +12,12 @@ Features:
 - ✅ Sitemap support
 - ✅ RSS Feed support
 - ✅ Markdown & MDX support
+
+## Deploy on Northflank
+
+This is the default Astro blog starter with a Dockerfile, added so that it can be built and deployed on Northflank.
+
+View the [Northflank guide here](https://northflank.com/guides/deploy-astro-on-northflank).
 
 ## 🚀 Project Structure
 
