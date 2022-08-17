@@ -4,9 +4,11 @@
 npm init astro -- --template blog
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
+## Deploy on Northflank
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This is the default Astro blog starter with a Dockerfile, added so that it can be built and deployed on Northflank.
+
+View the [Northflank guide here](https://northflank.com/guides/deploy-astro-on-northflank).
 
 Features:
 
