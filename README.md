@@ -1,4 +1,22 @@
-# Astro Starter Kit: Blog
+# Northflank Astro template
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.northflank.com">
+    <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
+</a>
+
+Deploy this Astro blog easily with [Northflank](https://www.northflank.com):
+
+- [Create a service from template on Northflank](https://app.northflank.com/s/project/create/template-service)
+- Select the Astro template
+- Wait for the app to build and visit the newly assigned URL. That's it!
+
+[Read our Astro guide](https://northflank.com/guides/deploy-astro-on-northflank).
+
+You can now clone your repository locally and start making changes. Push your changes to automatically build and deploy the updated application!
+
+[Learn more about using Northflank](https://northflank.com/docs/).
+
+# Astro blog starter kit
 
 ```
 npm init astro -- --template blog
@@ -12,12 +30,6 @@ Features:
 - ✅ Sitemap support
 - ✅ RSS Feed support
 - ✅ Markdown & MDX support
-
-## Deploy on Northflank
-
-This is the default Astro blog starter with a Dockerfile, added so that it can be built and deployed on Northflank.
-
-View the [Northflank guide here](https://northflank.com/guides/deploy-astro-on-northflank).
 
 ## 🚀 Project Structure
 
